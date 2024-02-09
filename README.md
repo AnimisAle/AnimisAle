@@ -10,5 +10,3 @@
 </a> 
 </p>
 </br>
-
-![snake gif](https://github.com/AnimisAle/AnimisAle/blob/output/github-contribution-grid-snake.svg)
